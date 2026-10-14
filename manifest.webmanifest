@@ -1,0 +1,16 @@
+{
+  "name": "Inventori Suku Cadang Kapal ASDP Batam",
+  "short_name": "Inventori ASDP",
+  "description": "Pemakaian barang dan stok opname suku cadang kapal, PT ASDP Indonesia Ferry Cabang Batam",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3F6FA",
+  "theme_color": "#1B2A66",
+  "lang": "id",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
